@@ -1,0 +1,7 @@
+C:\Users\lescz\source\repos\KrempelAlistair_SoccerPlayer2\KrempelAlistair_SoccerPlayer2\bin\Debug\KrempelAlistair_SoccerPlayer2.exe.config
+C:\Users\lescz\source\repos\KrempelAlistair_SoccerPlayer2\KrempelAlistair_SoccerPlayer2\bin\Debug\KrempelAlistair_SoccerPlayer2.exe
+C:\Users\lescz\source\repos\KrempelAlistair_SoccerPlayer2\KrempelAlistair_SoccerPlayer2\bin\Debug\KrempelAlistair_SoccerPlayer2.pdb
+C:\Users\lescz\source\repos\KrempelAlistair_SoccerPlayer2\KrempelAlistair_SoccerPlayer2\obj\Debug\KrempelAlistair_SoccerPlayer2.csprojAssemblyReference.cache
+C:\Users\lescz\source\repos\KrempelAlistair_SoccerPlayer2\KrempelAlistair_SoccerPlayer2\obj\Debug\KrempelAlistair_SoccerPlayer2.csproj.CoreCompileInputs.cache
+C:\Users\lescz\source\repos\KrempelAlistair_SoccerPlayer2\KrempelAlistair_SoccerPlayer2\obj\Debug\KrempelAlistair_SoccerPlayer2.exe
+C:\Users\lescz\source\repos\KrempelAlistair_SoccerPlayer2\KrempelAlistair_SoccerPlayer2\obj\Debug\KrempelAlistair_SoccerPlayer2.pdb
